@@ -29,5 +29,5 @@ numeroInteiro.innerHTML = `<p> ${num} é inteiro: ${inteiro}</p>`
 numeroNaN.innerHTML = `<p>É NaN: ${nan}</p>`
 numeroBaixo.innerHTML = `<p>Arredondado para baixo: ${roundBaixo}</p>`
 numeroCima.innerHTML = `<p>Arredondado para cima: ${roundCima}</p>`
-casaDecimal.innerHTML = `<p>Com duas casas decimais <p id="casaDecimal"></p></p>`
+casaDecimal.innerHTML = `<p>Com duas casas decimais <p id="casaDecimal"></p>`
 
